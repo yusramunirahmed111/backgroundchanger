@@ -1,5 +1,4 @@
-
-   const colors = [
+const colors = [
     "red", "blue", "green", "yellow", "pink", 
     "purple", "orange", "cyan", "lime", "brown",
     "magenta", "grey", "indigo", "violet", "black"
